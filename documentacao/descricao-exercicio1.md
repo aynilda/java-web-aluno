@@ -16,3 +16,4 @@ Criar e organizar um repositório no GitHub, utilizando ficheiros, pastas e comm
 ## Conclusão
 
 Este exercício permitiu compreender a importância do GitHub na organização de projetos, na documentação e no controlo de versões. Os commits permitem acompanhar as alterações realizadas ao longo do desenvolvimento.
+Criação da estrutura inicial
